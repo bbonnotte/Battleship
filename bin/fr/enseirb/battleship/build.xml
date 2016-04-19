@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<project name="V5" default="compile">
+	<target name="compile">
+		<javac srcdir="."/>
+		<echo>Compilation OK !</echo>
+	</target>
+</project>

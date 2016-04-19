@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<grid>
+  <dimensions>
+    <horizontal>10</horizontal>
+    <vertical>10</vertical>
+  </dimensions>
+  <ships>
+    <battleship>1</battleship>
+    <submarine>1</submarine>
+    <destroyer>1</destroyer>
+    <patrol-boat>1</patrol-boat>
+    <aircraft-carrier>1</aircraft-carrier>
+  </ships>
+  <strategies placement="random" firing="detection"/>
+</grid>
